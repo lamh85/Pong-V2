@@ -1,0 +1,12 @@
+.court {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background: green;
+  height: 800px;
+  width: 1000px;
+}
+
+.paddle {
+  position: relative;
+}
